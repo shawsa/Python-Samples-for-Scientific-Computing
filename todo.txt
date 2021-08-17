@@ -1,0 +1,6 @@
+Numpy and Scipy notebook
+Sympy notebook
+Iteration notebook
+MatPlotLib notebook
+    Animations
+    Convergence Plots
